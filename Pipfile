@@ -1,0 +1,11 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+httpie = "*"
+httpie-api-auth = "*"
+httpie-aws-auth = "*"
+httpie-hmac-auth = "*"
+httpie-jwt-auth = "*"
